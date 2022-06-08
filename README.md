@@ -1,2 +1,2 @@
 # Java_labs
- All of the java labs
+This repository contains all of the java based projects that I have done in my Java Development 1 class.
